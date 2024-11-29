@@ -3,7 +3,12 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Tausta
+  - Ui
+  - Car
+  - items
+  - QuestionsGrid
   layers:
   - Default
   - TransparentFX
@@ -38,15 +43,15 @@ TagManager:
   - 
   - 
   m_SortingLayers:
-  - name: Default
-    uniqueID: 0
-    locked: 0
-  - name: maa
-    uniqueID: 1023200475
+  - name: taivas
+    uniqueID: 3501231617
     locked: 0
   - name: vuoret
     uniqueID: 2932457963
     locked: 0
-  - name: taivas
-    uniqueID: 3501231617
+  - name: maa
+    uniqueID: 1023200475
+    locked: 0
+  - name: Default
+    uniqueID: 0
     locked: 0
